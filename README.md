@@ -46,6 +46,21 @@ User-friendly visuals for decision-making
 
 📌 Open ola.pbix using Power BI Desktop to explore the dashboard.
 
+🛠️ How to Use This Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/OLA-Booking-Analysis.git
+
+
+Import booking_ola.csv into your SQL database
+
+Run queries from ola_sql.sql
+
+Open ola.pbix in Power BI Desktop
+
+Refresh data if required
+
 🎯 Project Objective
 
 To demonstrate real-world data analysis skills using SQL and Power BI by working on a transportation-based dataset and generating actionable insights.
