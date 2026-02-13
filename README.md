@@ -1,8 +1,9 @@
 🚖 OLA Booking Data Analysis Project
+
 📌 Project Overview
 
-This project focuses on analyzing OLA cab booking data using SQL and Power BI to extract meaningful business insights.
-The goal is to understand booking patterns, customer behavior, ride performance, and revenue trends through structured queries and interactive dashboards.
+This project focuses on analyzing OLA cab booking data using SQL and Power BI to derive meaningful business insights.
+The analysis highlights booking trends, customer behavior, ride performance, and revenue patterns through structured queries and interactive dashboards.
 
 🗂️ Repository Contents
 📁 OLA-Booking-Analysis
@@ -24,46 +25,29 @@ GitHub – Version control & project hosting
 
 📊 Key Analysis Performed
 
-Total bookings and ride trends
+Total bookings and ride volume trends
 
 Booking status analysis (Completed, Cancelled, etc.)
 
-Revenue and fare analysis
+Revenue and fare distribution
 
-Customer usage patterns
+Customer booking behavior
 
-Time-based analysis (daily / monthly trends)
+Time-based trend analysis (daily / monthly)
 
 📈 Power BI Dashboard Highlights
 
-Interactive KPIs for total rides and revenue
+KPI cards for total rides and revenue
 
-Booking status distribution
+Booking status distribution visuals
 
 Trend analysis using charts and filters
 
-User-friendly visuals for decision-making
-
-📌 Open ola.pbix using Power BI Desktop to explore the dashboard.
-
-🛠️ How to Use This Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/OLA-Booking-Analysis.git
-
-
-Import booking_ola.csv into your SQL database
-
-Run queries from ola_sql.sql
-
-Open ola.pbix in Power BI Desktop
-
-Refresh data if required
+Clean and interactive dashboard layout for insights
 
 🎯 Project Objective
 
-To demonstrate real-world data analysis skills using SQL and Power BI by working on a transportation-based dataset and generating actionable insights.
+To demonstrate practical data analytics skills by working on a real-world transportation dataset and applying SQL and Power BI to generate actionable insights.
 
 👩‍💻 Author
 
@@ -72,4 +56,4 @@ Aspiring Data Analyst | SQL | Power BI
 
 ⭐ Acknowledgment
 
-This project is created for learning, practice, and portfolio purposes.
+This project is created for learning, practice, and portfolio development purposes.
