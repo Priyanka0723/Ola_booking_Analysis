@@ -6,6 +6,7 @@ This project focuses on analyzing OLA cab booking data using SQL and Power BI to
 The analysis highlights booking trends, customer behavior, ride performance, and revenue patterns through structured queries and interactive dashboards.
 
 🗂️ Repository Contents
+
 📁 OLA-Booking-Analysis
 │
 ├── booking_ola.csv     # Raw dataset used for analysis
@@ -54,6 +55,4 @@ To demonstrate practical data analytics skills by working on a real-world transp
 Priyanka Barman
 Aspiring Data Analyst | SQL | Power BI
 
-⭐ Acknowledgment
 
-This project is created for learning, practice, and portfolio development purposes.
